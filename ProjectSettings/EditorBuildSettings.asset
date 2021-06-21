@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/0_ETVR_menu.unity
+    guid: 8d07abc198dd8fb4480c12bac7827d46
+  - enabled: 1
+    path: Assets/Scenes/1_ETVR_VR_template.unity
+    guid: 2ab14ce586a5a7e47867434aa815487b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d77757268091df4ea90364f644045b9,
+      type: 2}

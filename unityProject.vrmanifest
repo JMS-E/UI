@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.panoramaassettester.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Users\\titan2\\Desktop\\2526_winterswijk_trappenhuis\\winterswijt-vr\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "New Unity Project (1) [Testing]"
+        }
+      }
+    }
+  ]
+}
