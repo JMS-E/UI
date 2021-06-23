@@ -90,6 +90,11 @@ PrefabInstance:
       propertyPath: m_text
       value: Tools
       objectReference: {fileID: 0}
+    - target: {fileID: 114589370992418626, guid: 8824483cce8b8314f83f933a59d1483c,
+        type: 3}
+      propertyPath: m_Value
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114852631722933792, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
       propertyPath: dropdownItems.Array.size
@@ -103,7 +108,7 @@ PrefabInstance:
     - target: {fileID: 114852631722933792, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
       propertyPath: enableScrollbar
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114852631722933792, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
@@ -123,7 +128,7 @@ PrefabInstance:
     - target: {fileID: 114852631722933792, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
       propertyPath: outOnPointerExit
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114852631722933792, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
@@ -199,12 +204,12 @@ PrefabInstance:
     - target: {fileID: 224179369329240636, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 878
       objectReference: {fileID: 0}
     - target: {fileID: 224179369329240636, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 928
       objectReference: {fileID: 0}
     - target: {fileID: 224179369329240636, guid: 8824483cce8b8314f83f933a59d1483c,
         type: 3}
